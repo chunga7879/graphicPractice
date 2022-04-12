@@ -1,8 +1,6 @@
 # Assignment 1
 
 ### Name: Chunga Lee
-#### student number: 18848614
-#### CWL User name: xhehf77
 
 ### Instruction:
 
